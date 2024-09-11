@@ -23,7 +23,7 @@
 hs_err_pid*
 replay_pid*
 
-# Ignorar carpetas del IDE y d
+# Ignorar carpetas del IDE y de target
 /.idea/
 /target/
 

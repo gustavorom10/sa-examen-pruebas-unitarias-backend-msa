@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"mx.gustavo.examen.pruebas.backend"},{"l":"mx.gustavo.examen.pruebas.backend.entity"},{"l":"mx.gustavo.examen.pruebas.backend.repository"},{"l":"mx.gustavo.examen.pruebas.backend.service"},{"l":"mx.gustavo.examen.pruebas.backend.service.implementacion"}];updateSearchResults();
