@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 import java.math.BigDecimal;
 
 /**
- * Representa una orden de compra que el cliente hace en nuestra tienda
+ * Representa una orden de compra que el cliente hace en nuestra tienda.
  * Cambié el nombre de la tabla Order por Ordenable porque Order es una palabra reservada de SQL y causará conflictos.
  * No se recomienda renombrar a Orders porque la convención es que los nombres de tablas deben ser en singular.
  * Otra solución sin tener que renombrar la tabla es usar la anotación @Table(name='order') y encerrar la palabra order entre comillas simples,
