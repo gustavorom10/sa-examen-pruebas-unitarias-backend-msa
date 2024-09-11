@@ -1,0 +1,5 @@
+mx.gustavo.examen.pruebas.backend
+mx.gustavo.examen.pruebas.backend.entity
+mx.gustavo.examen.pruebas.backend.repository
+mx.gustavo.examen.pruebas.backend.service
+mx.gustavo.examen.pruebas.backend.service.implementacion
