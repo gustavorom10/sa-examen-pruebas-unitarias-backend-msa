@@ -1,4 +1,4 @@
-# sa-examen-pruebas-backend
+# sa-examen-pruebas-unitarias-backend-msa
 # Examen de pruebas unitarias para backend
 
 @Autor: Gustavo Román Martínez
@@ -6,10 +6,14 @@
 # Cómo ejecutar las pruebas
 ## 1. Desde la terminal
 1. Abra su terminal favorita en Linux, Mac o windows
-2. Escriba el comando 
+2. Escriba el siguiente comando:
 ```
 mvn test
    ```
+Pantallazo del resultado obtenido:
+
+![img.png](img.png)
+
 3. Listo :-)
 
 ## 2. Desde su IDE
@@ -17,6 +21,10 @@ mvn test
 2. Abra el proyecto en su IDE
 3. Busque y abra la carpeta "test" y las clases de test dentro del proyecto
 4. De clic derecho sobre la clase de test y de clic en la opción "Run Test" ó "Ejecutar test" según su IDE
+5. Cobertura de pruebas:
+
+## Cobertura de pruebas unitarias
+![img_2.png](img_2.png)
 
 # Características técnicas del proyecto
 1. Versión de Java SDK: 22.
@@ -27,7 +35,7 @@ mvn test
 6. Tecnologías: Jakarta EE
 7. Codificación de caracteres UTF-8
 
-# Problemas posibles
+# Solución a posibles situaciones
 ### 1. Algunas versiones antiguas de Eclipse no detectan la librería Lombok automáticamente.
 
 Si su IDE indica que a las clases del proyecto les faltan los métodos getters y setters es porque no tiene habilitado el
@@ -41,5 +49,5 @@ Para eclipse, IDEA y otros en la página de lombok:
 
 ### 2. Se requiere la versión 3.9.8 o superior de maven
 Instale y configure la versión adecuada de maven:
-https://maven.apache.org/install.html
-https://maven.apache.org/configure.html
+1. https://maven.apache.org/install.html
+2. https://maven.apache.org/configure.html
