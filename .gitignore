@@ -22,9 +22,12 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
-#Ignorar carpetas del IDE y de target
-target
-.idea
+
+# Ignorar carpetas del IDE y d
+/.idea/
+/target/
+
+# Ignorar ciertos archivos
 *.pdf
 *.bat
 *.iml
