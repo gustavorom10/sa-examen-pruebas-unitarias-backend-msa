@@ -25,6 +25,7 @@ replay_pid*
 
 # Ignorar carpetas del IDE y de target
 /.idea/
+/.idea/misc.xml
 
 # Ignorar ciertos archivos
 *.pdf
