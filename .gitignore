@@ -25,9 +25,7 @@ replay_pid*
 
 # Ignorar carpetas del IDE y d
 /.idea/
-/target/
 
 # Ignorar ciertos archivos
-*.pdf
 *.bat
 *.iml
