@@ -6,7 +6,10 @@
 # Cómo ejecutar las pruebas
 ## 1. Desde la terminal
 1. Abra su terminal favorita en Linux, Mac o windows
-2. Escriba el comando mvn test
+2. Escriba el comando 
+```
+mvn test
+   ```
 3. Listo :-)
 
 ## 2. Desde su IDE
@@ -37,5 +40,6 @@ Para eclipse, IDEA y otros en la página de lombok:
 2. https://projectlombok.org/setup/intellij
 
 ### 2. Se requiere la versión 3.9.8 o superior de maven
-Instale la versión:
+Instale y configure la versión adecuada de maven:
 https://maven.apache.org/install.html
+https://maven.apache.org/configure.html
