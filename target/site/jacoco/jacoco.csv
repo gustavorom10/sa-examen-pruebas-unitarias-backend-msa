@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+backend,mx.gustavo.examen.pruebas.backend.service.implementacion,OrdenService,0,58,0,2,0,14,0,7,0,6
+backend,mx.gustavo.examen.pruebas.backend.service.implementacion,PagoService,0,6,0,0,0,2,0,2,0,2
+backend,mx.gustavo.examen.pruebas.backend,BackendApplication,0,8,0,0,0,3,0,2,0,2
